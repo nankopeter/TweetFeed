@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-30 00:02:21 (UTC)</th>
+		<th colspan=4>2022-11-30 00:14:19 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,7 +89,7 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 0 | 5541 | 20487 | 160228 |
+| **:link: URLs** | 1 | 5542 | 20488 | 160229 |
 | **:globe_with_meridians: Domains** | 0 | 688 | 2914 | 31049 |
 | **:triangular_flag_on_post: IPs** | 0 | 757 | 3368 | 54193 |
 | **:1234: SHA256** | 0 | 56 | 460 | 16712 |
@@ -101,7 +101,7 @@ If you like the project, please consider giving it a star!
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 0 | 3618 | 14153 | 184611 |
 | **#scam** | 0 | 1069 | 4211 | 36841 |
-| **#malware** | 0 | 3373 | 11692 | 32845 |
+| **#malware** | 1 | 3374 | 11693 | 32846 |
 | **#maldoc** | 0 | 18 | 28 | 245 |
 | **#ransomware** | 0 | 257 | 424 | 1519 |
 | **#banker** | 0 | 24 | 29 | 51 |
@@ -136,7 +136,7 @@ If you like the project, please consider giving it a star!
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [-](https://twitter.com/-) | 0 |
+| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 1 |
 | **#2** | [-](https://twitter.com/-) | 0 |
 | **#3** | [-](https://twitter.com/-) | 0 |
 | **#4** | [-](https://twitter.com/-) | 0 |
