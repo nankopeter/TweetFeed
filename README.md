@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-30 08:50:14 (UTC)</th>
+		<th colspan=4>2022-11-30 08:59:29 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,9 +89,9 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 287 | 5828 | 20774 | 160515 |
+| **:link: URLs** | 299 | 5840 | 20786 | 160527 |
 | **:globe_with_meridians: Domains** | 6 | 697 | 2923 | 31058 |
-| **:triangular_flag_on_post: IPs** | 44 | 801 | 3412 | 54237 |
+| **:triangular_flag_on_post: IPs** | 45 | 802 | 3413 | 54238 |
 | **:1234: SHA256** | 2 | 58 | 462 | 16714 |
 | **:1234: MD5** | 13 | 649 | 1697 | 6379 |
 
@@ -99,16 +99,16 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 212 | 3830 | 14365 | 184823 |
-| **#scam** | 36 | 1105 | 4247 | 36877 |
-| **#malware** | 96 | 3469 | 11788 | 32941 |
+| **#phishing** | 220 | 3838 | 14373 | 184831 |
+| **#scam** | 38 | 1107 | 4249 | 36879 |
+| **#malware** | 101 | 3474 | 11793 | 32946 |
 | **#maldoc** | 0 | 18 | 28 | 245 |
 | **#ransomware** | 4 | 261 | 428 | 1523 |
 | **#banker** | 0 | 24 | 29 | 51 |
 | **#AgentTesla** | 0 | 1 | 26 | 2060 |
 | **#Alienbot** | 0 | 0 | 0 | 11 |
 | **#BazarLoader** | 0 | 0 | 7 | 142 |
-| **#CobaltStrike** | 8 | 316 | 1277 | 18429 |
+| **#CobaltStrike** | 9 | 317 | 1278 | 18430 |
 | **#Dridex** | 0 | 0 | 0 | 149 |
 | **#Emotet** | 0 | 10 | 172 | 1714 |
 | **#FluBot** | 0 | 0 | 1 | 11 |
@@ -136,13 +136,13 @@ If you like the project, please consider giving it a star!
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 166 |
-| **#2** | [AtomSpam](https://twitter.com/AtomSpam) | 64 |
+| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 172 |
+| **#2** | [AtomSpam](https://twitter.com/AtomSpam) | 68 |
 | **#3** | [dubstard](https://twitter.com/dubstard) | 28 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 14 |
 | **#5** | [quicksandphish](https://twitter.com/quicksandphish) | 13 |
-| **#6** | [DGAFeedAlerts](https://twitter.com/DGAFeedAlerts) | 8 |
-| **#7** | [drb_ra](https://twitter.com/drb_ra) | 8 |
+| **#6** | [drb_ra](https://twitter.com/drb_ra) | 9 |
+| **#7** | [DGAFeedAlerts](https://twitter.com/DGAFeedAlerts) | 8 |
 | **#8** | [ViriBack](https://twitter.com/ViriBack) | 7 |
 | **#9** | [RedPacketSec](https://twitter.com/RedPacketSec) | 7 |
 | **#10** | [PhishStats](https://twitter.com/PhishStats) | 5 |
