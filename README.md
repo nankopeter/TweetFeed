@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-30 12:00:30 (UTC)</th>
+		<th colspan=4>2022-11-30 12:09:45 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,19 +89,19 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 402 | 5943 | 20889 | 160630 |
+| **:link: URLs** | 405 | 5946 | 20892 | 160633 |
 | **:globe_with_meridians: Domains** | 12 | 703 | 2929 | 31064 |
-| **:triangular_flag_on_post: IPs** | 62 | 819 | 3430 | 54255 |
-| **:1234: SHA256** | 7 | 63 | 467 | 16719 |
+| **:triangular_flag_on_post: IPs** | 65 | 822 | 3433 | 54258 |
+| **:1234: SHA256** | 12 | 68 | 472 | 16724 |
 | **:1234: MD5** | 18 | 654 | 1702 | 6384 |
 
 #### Tags
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 298 | 3916 | 14451 | 184909 |
-| **#scam** | 40 | 1109 | 4251 | 36881 |
-| **#malware** | 137 | 3510 | 11829 | 32982 |
+| **#phishing** | 302 | 3920 | 14455 | 184913 |
+| **#scam** | 42 | 1111 | 4253 | 36883 |
+| **#malware** | 143 | 3516 | 11835 | 32988 |
 | **#maldoc** | 0 | 18 | 28 | 245 |
 | **#ransomware** | 4 | 261 | 428 | 1523 |
 | **#banker** | 0 | 24 | 29 | 51 |
@@ -137,15 +137,15 @@ If you like the project, please consider giving it a star!
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 242 |
-| **#2** | [AtomSpam](https://twitter.com/AtomSpam) | 94 |
+| **#2** | [AtomSpam](https://twitter.com/AtomSpam) | 96 |
 | **#3** | [dubstard](https://twitter.com/dubstard) | 28 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 17 |
 | **#5** | [drb_ra](https://twitter.com/drb_ra) | 15 |
 | **#6** | [quicksandphish](https://twitter.com/quicksandphish) | 13 |
-| **#7** | [DGAFeedAlerts](https://twitter.com/DGAFeedAlerts) | 11 |
-| **#8** | [VirITeXplorer](https://twitter.com/VirITeXplorer) | 9 |
-| **#9** | [ViriBack](https://twitter.com/ViriBack) | 7 |
-| **#10** | [RedPacketSec](https://twitter.com/RedPacketSec) | 7 |
+| **#7** | [HeliosCert](https://twitter.com/HeliosCert) | 13 |
+| **#8** | [DGAFeedAlerts](https://twitter.com/DGAFeedAlerts) | 11 |
+| **#9** | [VirITeXplorer](https://twitter.com/VirITeXplorer) | 9 |
+| **#10** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 8 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
