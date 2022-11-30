@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-30 12:17:09 (UTC)</th>
+		<th colspan=4>2022-11-30 12:25:36 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,9 +89,9 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 409 | 5950 | 20896 | 160637 |
+| **:link: URLs** | 411 | 5952 | 20898 | 160639 |
 | **:globe_with_meridians: Domains** | 12 | 703 | 2929 | 31064 |
-| **:triangular_flag_on_post: IPs** | 65 | 822 | 3433 | 54258 |
+| **:triangular_flag_on_post: IPs** | 66 | 823 | 3434 | 54259 |
 | **:1234: SHA256** | 12 | 68 | 472 | 16724 |
 | **:1234: MD5** | 18 | 654 | 1702 | 6384 |
 
@@ -99,8 +99,8 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 306 | 3924 | 14459 | 184917 |
-| **#scam** | 42 | 1111 | 4253 | 36883 |
+| **#phishing** | 309 | 3927 | 14462 | 184920 |
+| **#scam** | 44 | 1113 | 4255 | 36885 |
 | **#malware** | 143 | 3516 | 11835 | 32988 |
 | **#maldoc** | 0 | 18 | 28 | 245 |
 | **#ransomware** | 4 | 261 | 428 | 1523 |
@@ -137,15 +137,15 @@ If you like the project, please consider giving it a star!
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 242 |
-| **#2** | [AtomSpam](https://twitter.com/AtomSpam) | 97 |
+| **#2** | [AtomSpam](https://twitter.com/AtomSpam) | 98 |
 | **#3** | [dubstard](https://twitter.com/dubstard) | 28 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 17 |
 | **#5** | [drb_ra](https://twitter.com/drb_ra) | 15 |
 | **#6** | [quicksandphish](https://twitter.com/quicksandphish) | 13 |
 | **#7** | [HeliosCert](https://twitter.com/HeliosCert) | 13 |
 | **#8** | [DGAFeedAlerts](https://twitter.com/DGAFeedAlerts) | 11 |
-| **#9** | [VirITeXplorer](https://twitter.com/VirITeXplorer) | 9 |
-| **#10** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 8 |
+| **#9** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 10 |
+| **#10** | [VirITeXplorer](https://twitter.com/VirITeXplorer) | 9 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
