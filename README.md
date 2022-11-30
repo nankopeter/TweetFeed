@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-30 13:55:27 (UTC)</th>
+		<th colspan=4>2022-11-30 14:08:26 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -93,7 +93,7 @@ If you like the project, please consider giving it a star!
 | **:globe_with_meridians: Domains** | 13 | 704 | 2930 | 31065 |
 | **:triangular_flag_on_post: IPs** | 67 | 824 | 3435 | 54260 |
 | **:1234: SHA256** | 14 | 70 | 474 | 16726 |
-| **:1234: MD5** | 22 | 658 | 1706 | 6388 |
+| **:1234: MD5** | 24 | 660 | 1708 | 6390 |
 
 #### Tags
 
@@ -103,7 +103,7 @@ If you like the project, please consider giving it a star!
 | **#scam** | 45 | 1114 | 4256 | 36886 |
 | **#malware** | 152 | 3525 | 11844 | 32997 |
 | **#maldoc** | 4 | 22 | 32 | 249 |
-| **#ransomware** | 5 | 262 | 429 | 1524 |
+| **#ransomware** | 7 | 264 | 431 | 1526 |
 | **#banker** | 0 | 24 | 29 | 51 |
 | **#AgentTesla** | 0 | 1 | 26 | 2060 |
 | **#Alienbot** | 0 | 0 | 0 | 11 |
