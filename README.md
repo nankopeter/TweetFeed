@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-30 10:58:59 (UTC)</th>
+		<th colspan=4>2022-11-30 11:06:23 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,7 +89,7 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 378 | 5919 | 20865 | 160606 |
+| **:link: URLs** | 380 | 5921 | 20867 | 160608 |
 | **:globe_with_meridians: Domains** | 12 | 703 | 2929 | 31064 |
 | **:triangular_flag_on_post: IPs** | 53 | 810 | 3421 | 54246 |
 | **:1234: SHA256** | 2 | 58 | 462 | 16714 |
@@ -99,7 +99,7 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 274 | 3892 | 14427 | 184885 |
+| **#phishing** | 276 | 3894 | 14429 | 184887 |
 | **#scam** | 38 | 1107 | 4249 | 36879 |
 | **#malware** | 128 | 3501 | 11820 | 32973 |
 | **#maldoc** | 0 | 18 | 28 | 245 |
@@ -136,7 +136,7 @@ If you like the project, please consider giving it a star!
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 230 |
+| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 232 |
 | **#2** | [AtomSpam](https://twitter.com/AtomSpam) | 83 |
 | **#3** | [dubstard](https://twitter.com/dubstard) | 28 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 17 |
