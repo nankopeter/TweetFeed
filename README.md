@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-30 06:01:02 (UTC)</th>
+		<th colspan=4>2022-11-30 06:14:56 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,19 +89,19 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 218 | 5759 | 20705 | 160446 |
+| **:link: URLs** | 224 | 5765 | 20711 | 160452 |
 | **:globe_with_meridians: Domains** | 6 | 697 | 2923 | 31058 |
 | **:triangular_flag_on_post: IPs** | 40 | 797 | 3408 | 54233 |
 | **:1234: SHA256** | 2 | 58 | 462 | 16714 |
-| **:1234: MD5** | 5 | 641 | 1689 | 6371 |
+| **:1234: MD5** | 12 | 648 | 1696 | 6378 |
 
 #### Tags
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 165 | 3783 | 14318 | 184776 |
-| **#scam** | 12 | 1081 | 4223 | 36853 |
-| **#malware** | 78 | 3451 | 11770 | 32923 |
+| **#phishing** | 171 | 3789 | 14324 | 184782 |
+| **#scam** | 18 | 1087 | 4229 | 36859 |
+| **#malware** | 85 | 3458 | 11777 | 32930 |
 | **#maldoc** | 0 | 18 | 28 | 245 |
 | **#ransomware** | 2 | 259 | 426 | 1521 |
 | **#banker** | 0 | 24 | 29 | 51 |
@@ -140,12 +140,12 @@ If you like the project, please consider giving it a star!
 | **#2** | [AtomSpam](https://twitter.com/AtomSpam) | 58 |
 | **#3** | [quicksandphish](https://twitter.com/quicksandphish) | 13 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 11 |
-| **#5** | [DGAFeedAlerts](https://twitter.com/DGAFeedAlerts) | 8 |
-| **#6** | [drb_ra](https://twitter.com/drb_ra) | 8 |
-| **#7** | [ViriBack](https://twitter.com/ViriBack) | 7 |
-| **#8** | [romonlyht](https://twitter.com/romonlyht) | 5 |
-| **#9** | [dubstard](https://twitter.com/dubstard) | 5 |
-| **#10** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
+| **#5** | [dubstard](https://twitter.com/dubstard) | 11 |
+| **#6** | [DGAFeedAlerts](https://twitter.com/DGAFeedAlerts) | 8 |
+| **#7** | [drb_ra](https://twitter.com/drb_ra) | 8 |
+| **#8** | [ViriBack](https://twitter.com/ViriBack) | 7 |
+| **#9** | [RedPacketSec](https://twitter.com/RedPacketSec) | 7 |
+| **#10** | [romonlyht](https://twitter.com/romonlyht) | 5 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
