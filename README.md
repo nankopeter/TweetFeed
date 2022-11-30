@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-30 02:34:54 (UTC)</th>
+		<th colspan=4>2022-11-30 02:40:52 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,9 +89,9 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 124 | 5665 | 20611 | 160352 |
+| **:link: URLs** | 129 | 5670 | 20616 | 160357 |
 | **:globe_with_meridians: Domains** | 6 | 694 | 2920 | 31055 |
-| **:triangular_flag_on_post: IPs** | 22 | 779 | 3390 | 54215 |
+| **:triangular_flag_on_post: IPs** | 24 | 781 | 3392 | 54217 |
 | **:1234: SHA256** | 2 | 58 | 462 | 16714 |
 | **:1234: MD5** | 4 | 640 | 1688 | 6370 |
 
@@ -99,9 +99,9 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 98 | 3716 | 14251 | 184709 |
+| **#phishing** | 103 | 3721 | 14256 | 184714 |
 | **#scam** | 4 | 1073 | 4215 | 36845 |
-| **#malware** | 45 | 3418 | 11737 | 32890 |
+| **#malware** | 47 | 3420 | 11739 | 32892 |
 | **#maldoc** | 0 | 18 | 28 | 245 |
 | **#ransomware** | 2 | 259 | 426 | 1521 |
 | **#banker** | 0 | 24 | 29 | 51 |
@@ -136,16 +136,16 @@ If you like the project, please consider giving it a star!
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 85 |
-| **#2** | [AtomSpam](https://twitter.com/AtomSpam) | 30 |
-| **#3** | [quicksandphish](https://twitter.com/quicksandphish) | 12 |
+| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 87 |
+| **#2** | [AtomSpam](https://twitter.com/AtomSpam) | 31 |
+| **#3** | [quicksandphish](https://twitter.com/quicksandphish) | 13 |
 | **#4** | [DGAFeedAlerts](https://twitter.com/DGAFeedAlerts) | 8 |
 | **#5** | [ViriBack](https://twitter.com/ViriBack) | 7 |
-| **#6** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
-| **#7** | [ScumBots](https://twitter.com/ScumBots) | 3 |
-| **#8** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 2 |
-| **#9** | [ASEC_Analysis](https://twitter.com/ASEC_Analysis) | 2 |
-| **#10** | [phishunt_io](https://twitter.com/phishunt_io) | 2 |
+| **#6** | [romonlyht](https://twitter.com/romonlyht) | 5 |
+| **#7** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
+| **#8** | [ScumBots](https://twitter.com/ScumBots) | 3 |
+| **#9** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 2 |
+| **#10** | [ASEC_Analysis](https://twitter.com/ASEC_Analysis) | 2 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
