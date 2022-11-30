@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-30 03:30:58 (UTC)</th>
+		<th colspan=4>2022-11-30 03:39:17 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,9 +89,9 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 164 | 5705 | 20651 | 160392 |
+| **:link: URLs** | 166 | 5707 | 20653 | 160394 |
 | **:globe_with_meridians: Domains** | 6 | 694 | 2920 | 31055 |
-| **:triangular_flag_on_post: IPs** | 32 | 789 | 3400 | 54225 |
+| **:triangular_flag_on_post: IPs** | 34 | 791 | 3402 | 54227 |
 | **:1234: SHA256** | 2 | 58 | 462 | 16714 |
 | **:1234: MD5** | 4 | 640 | 1688 | 6370 |
 
@@ -99,7 +99,7 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 121 | 3739 | 14274 | 184732 |
+| **#phishing** | 125 | 3743 | 14278 | 184736 |
 | **#scam** | 5 | 1074 | 4216 | 36846 |
 | **#malware** | 64 | 3437 | 11756 | 32909 |
 | **#maldoc** | 0 | 18 | 28 | 245 |
@@ -144,8 +144,8 @@ If you like the project, please consider giving it a star!
 | **#6** | [ViriBack](https://twitter.com/ViriBack) | 7 |
 | **#7** | [romonlyht](https://twitter.com/romonlyht) | 5 |
 | **#8** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
-| **#9** | [ScumBots](https://twitter.com/ScumBots) | 3 |
-| **#10** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 2 |
+| **#9** | [PhishStats](https://twitter.com/PhishStats) | 3 |
+| **#10** | [ScumBots](https://twitter.com/ScumBots) | 3 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
