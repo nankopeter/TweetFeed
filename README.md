@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-30 06:49:17 (UTC)</th>
+		<th colspan=4>2022-11-30 07:00:28 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,9 +89,9 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 230 | 5771 | 20717 | 160458 |
+| **:link: URLs** | 233 | 5774 | 20720 | 160461 |
 | **:globe_with_meridians: Domains** | 6 | 697 | 2923 | 31058 |
-| **:triangular_flag_on_post: IPs** | 41 | 798 | 3409 | 54234 |
+| **:triangular_flag_on_post: IPs** | 43 | 800 | 3411 | 54236 |
 | **:1234: SHA256** | 2 | 58 | 462 | 16714 |
 | **:1234: MD5** | 12 | 648 | 1696 | 6378 |
 
@@ -99,11 +99,11 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 175 | 3793 | 14328 | 184786 |
+| **#phishing** | 177 | 3795 | 14330 | 184788 |
 | **#scam** | 18 | 1087 | 4229 | 36859 |
-| **#malware** | 88 | 3461 | 11780 | 32933 |
+| **#malware** | 89 | 3462 | 11781 | 32934 |
 | **#maldoc** | 0 | 18 | 28 | 245 |
-| **#ransomware** | 2 | 259 | 426 | 1521 |
+| **#ransomware** | 4 | 261 | 428 | 1523 |
 | **#banker** | 0 | 24 | 29 | 51 |
 | **#AgentTesla** | 0 | 1 | 26 | 2060 |
 | **#Alienbot** | 0 | 0 | 0 | 11 |
@@ -138,8 +138,8 @@ If you like the project, please consider giving it a star!
 | :--- | :---: | :---: | 
 | **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 136 |
 | **#2** | [AtomSpam](https://twitter.com/AtomSpam) | 59 |
-| **#3** | [quicksandphish](https://twitter.com/quicksandphish) | 13 |
-| **#4** | [harugasumi](https://twitter.com/harugasumi) | 12 |
+| **#3** | [harugasumi](https://twitter.com/harugasumi) | 14 |
+| **#4** | [quicksandphish](https://twitter.com/quicksandphish) | 13 |
 | **#5** | [dubstard](https://twitter.com/dubstard) | 11 |
 | **#6** | [DGAFeedAlerts](https://twitter.com/DGAFeedAlerts) | 8 |
 | **#7** | [drb_ra](https://twitter.com/drb_ra) | 8 |
