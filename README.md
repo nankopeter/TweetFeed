@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-30 06:25:21 (UTC)</th>
+		<th colspan=4>2022-11-30 06:37:29 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,9 +89,9 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 225 | 5766 | 20712 | 160453 |
+| **:link: URLs** | 227 | 5768 | 20714 | 160455 |
 | **:globe_with_meridians: Domains** | 6 | 697 | 2923 | 31058 |
-| **:triangular_flag_on_post: IPs** | 40 | 797 | 3408 | 54233 |
+| **:triangular_flag_on_post: IPs** | 41 | 798 | 3409 | 54234 |
 | **:1234: SHA256** | 2 | 58 | 462 | 16714 |
 | **:1234: MD5** | 12 | 648 | 1696 | 6378 |
 
@@ -99,9 +99,9 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 172 | 3790 | 14325 | 184783 |
+| **#phishing** | 174 | 3792 | 14327 | 184785 |
 | **#scam** | 18 | 1087 | 4229 | 36859 |
-| **#malware** | 85 | 3458 | 11777 | 32930 |
+| **#malware** | 86 | 3459 | 11778 | 32931 |
 | **#maldoc** | 0 | 18 | 28 | 245 |
 | **#ransomware** | 2 | 259 | 426 | 1521 |
 | **#banker** | 0 | 24 | 29 | 51 |
@@ -145,7 +145,7 @@ If you like the project, please consider giving it a star!
 | **#7** | [drb_ra](https://twitter.com/drb_ra) | 8 |
 | **#8** | [ViriBack](https://twitter.com/ViriBack) | 7 |
 | **#9** | [RedPacketSec](https://twitter.com/RedPacketSec) | 7 |
-| **#10** | [romonlyht](https://twitter.com/romonlyht) | 5 |
+| **#10** | [PhishStats](https://twitter.com/PhishStats) | 5 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
