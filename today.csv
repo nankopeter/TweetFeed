@@ -6,13 +6,13 @@
 2022-11-30 00:15:14,RdpSnitch,ip,142.93.8.59,,https://twitter.com/RdpSnitch/status/1597746037694791680
 2022-11-30 00:15:14,RdpSnitch,ip,103.74.254.187,,https://twitter.com/RdpSnitch/status/1597746036436508680
 2022-11-30 00:15:14,RdpSnitch,ip,209.203.2.230,,https://twitter.com/RdpSnitch/status/1597746036436508680
-2022-11-30 00:16:24,ViriBack,ip,82.115.223.218,#malware,https://twitter.com/ViriBack/status/1597746330830794752
-2022-11-30 00:16:24,ViriBack,ip,45.137.65.190,#malware,https://twitter.com/ViriBack/status/1597746330830794752
-2022-11-30 00:16:24,ViriBack,ip,45.15.156.33,#malware,https://twitter.com/ViriBack/status/1597746330830794752
-2022-11-30 00:16:24,ViriBack,ip,45.15.156.24,#malware,https://twitter.com/ViriBack/status/1597746330830794752
-2022-11-30 00:16:24,ViriBack,ip,65.108.225.214,#malware,https://twitter.com/ViriBack/status/1597746330830794752
-2022-11-30 00:16:24,ViriBack,ip,45.15.157.137,#malware,https://twitter.com/ViriBack/status/1597746330830794752
 2022-11-30 00:16:24,ViriBack,ip,49.12.222.119,#malware,https://twitter.com/ViriBack/status/1597746330830794752
+2022-11-30 00:16:24,ViriBack,ip,65.108.225.214,#malware,https://twitter.com/ViriBack/status/1597746330830794752
+2022-11-30 00:16:24,ViriBack,ip,45.15.156.24,#malware,https://twitter.com/ViriBack/status/1597746330830794752
+2022-11-30 00:16:24,ViriBack,ip,45.15.157.137,#malware,https://twitter.com/ViriBack/status/1597746330830794752
+2022-11-30 00:16:24,ViriBack,ip,45.137.65.190,#malware,https://twitter.com/ViriBack/status/1597746330830794752
+2022-11-30 00:16:24,ViriBack,ip,82.115.223.218,#malware,https://twitter.com/ViriBack/status/1597746330830794752
+2022-11-30 00:16:24,ViriBack,ip,45.15.156.33,#malware,https://twitter.com/ViriBack/status/1597746330830794752
 2022-11-30 00:18:45,AtomSpam,url,http://cj68144.tw1.ru/,#phishing,https://twitter.com/AtomSpam/status/1597746922495811592
 2022-11-30 00:21:20,AtomSpam,url,https://11info.top/login/login,#phishing,https://twitter.com/AtomSpam/status/1597747572470431745
 2022-11-30 00:24:44,AtomSpam,url,http://afddbc.com/,#phishing,https://twitter.com/AtomSpam/status/1597748429173702665
@@ -23,8 +23,8 @@
 2022-11-30 00:34:36,quicksandphish,url,https://loaf.jugetic.top,#phishing,https://twitter.com/quicksandphish/status/1597750909055819776
 2022-11-30 00:35:35,quicksandphish,url,https://nude.yardial.top,#phishing,https://twitter.com/quicksandphish/status/1597751158700789760
 2022-11-30 00:36:38,quicksandphish,url,https://furl.farally.top,#phishing,https://twitter.com/quicksandphish/status/1597751421381664768
-2022-11-30 00:38:26,ASEC_Analysis,md5,48aa442a0670b65a82eee99c1ed1ac78,#malware #ransomware,https://twitter.com/ASEC_Analysis/status/1597751874245263362
 2022-11-30 00:38:26,ASEC_Analysis,md5,b303ffe0bbddca1570940557cabdd966,#malware #ransomware,https://twitter.com/ASEC_Analysis/status/1597751874245263362
+2022-11-30 00:38:26,ASEC_Analysis,md5,48aa442a0670b65a82eee99c1ed1ac78,#malware #ransomware,https://twitter.com/ASEC_Analysis/status/1597751874245263362
 2022-11-30 00:39:03,AtomSpam,url,https://goofy-gould.51-89-26-118.plesk.page/putedo/asor/region.php,#phishing,https://twitter.com/AtomSpam/status/1597752032160538624
 2022-11-30 00:39:41,quicksandphish,url,https://axle.jugetic.top,#phishing,https://twitter.com/quicksandphish/status/1597752189723680768
 2022-11-30 00:40:37,quicksandphish,url,https://inves.aacross.top,#phishing,https://twitter.com/quicksandphish/status/1597752426404007937
@@ -39,8 +39,8 @@
 2022-11-30 01:07:33,quicksandphish,url,https://reass.farally.top,#phishing,https://twitter.com/quicksandphish/status/1597759202365100033
 2022-11-30 01:07:43,ecarlesi,url,https://acessesuafaturadigital.xyz/,#phishing,https://twitter.com/ecarlesi/status/1597759245344186369
 2022-11-30 01:08:48,ecarlesi,url,http://15886.biz/,#malware,https://twitter.com/ecarlesi/status/1597759517537837056
-2022-11-30 01:09:03,ecarlesi,url,http://chaseauthcharges.org/a%20c/,#phishing,https://twitter.com/ecarlesi/status/1597759578409783296
 2022-11-30 01:09:03,AtomSpam,url,https://raylit1.github.io/netflix-clone,#phishing,https://twitter.com/AtomSpam/status/1597759578665615360
+2022-11-30 01:09:03,ecarlesi,url,http://chaseauthcharges.org/a%20c/,#phishing,https://twitter.com/ecarlesi/status/1597759578409783296
 2022-11-30 01:09:23,ecarlesi,url,http://25886.biz/,#malware,https://twitter.com/ecarlesi/status/1597759662505574400
 2022-11-30 01:09:32,ecarlesi,url,http://trfdsg.xyz:8888/down/f5zmsawe4msg.zip,#malware,https://twitter.com/ecarlesi/status/1597759701818671106
 2022-11-30 01:10:24,ecarlesi,url,http://evoluzionenatura.info,#phishing,https://twitter.com/ecarlesi/status/1597759921835151362
@@ -184,8 +184,8 @@
 2022-11-30 03:04:38,ecarlesi,url,http://114534.com/,#malware,https://twitter.com/ecarlesi/status/1597788669502525441
 2022-11-30 03:05:17,ecarlesi,url,https://portzzscott.buzz/doc/,#phishing,https://twitter.com/ecarlesi/status/1597788829234204672
 2022-11-30 03:05:17,ecarlesi,url,http://f2891d-senders.online/die.zip,#phishing,https://twitter.com/ecarlesi/status/1597788831297769473
-2022-11-30 03:07:38,ecarlesi,url,http://29999.biz/,#malware,https://twitter.com/ecarlesi/status/1597789423671853056
 2022-11-30 03:07:38,ecarlesi,url,http://29942.net/,#malware,https://twitter.com/ecarlesi/status/1597789423697121282
+2022-11-30 03:07:38,ecarlesi,url,http://29999.biz/,#malware,https://twitter.com/ecarlesi/status/1597789423671853056
 2022-11-30 03:07:44,ecarlesi,url,http://2739.voto/,#malware,https://twitter.com/ecarlesi/status/1597789448858894336
 2022-11-30 03:08:20,ecarlesi,url,http://114298.com/,#malware,https://twitter.com/ecarlesi/status/1597789597076955136
 2022-11-30 03:08:43,ecarlesi,url,http://114417.com/,#malware,https://twitter.com/ecarlesi/status/1597789693202075650
@@ -256,8 +256,8 @@
 2022-11-30 05:14:50,ecarlesi,url,http://ausianoea.org/,#phishing,https://twitter.com/ecarlesi/status/1597821433253711872
 2022-11-30 05:14:53,ecarlesi,url,https://540647.com/,#malware,https://twitter.com/ecarlesi/status/1597821446683852800
 2022-11-30 05:23:07,ReBensk,md5,4bd60172d5a2cf2082694173e2de036f,#malware,https://twitter.com/ReBensk/status/1597823519152173056
-2022-11-30 05:27:10,harugasumi,ip,198.55.122.42,#phishing,https://twitter.com/harugasumi/status/1597824535939944449
 2022-11-30 05:27:10,harugasumi,url,https://www.muetterinitiative.com/jp,#phishing,https://twitter.com/harugasumi/status/1597824535939944449
+2022-11-30 05:27:10,harugasumi,ip,198.55.122.42,#phishing,https://twitter.com/harugasumi/status/1597824535939944449
 2022-11-30 05:35:50,harugasumi,ip,167.160.188.244,#phishing,https://twitter.com/harugasumi/status/1597826719393931266
 2022-11-30 05:35:50,harugasumi,url,https://rebrand.ly/4d4297,#phishing,https://twitter.com/harugasumi/status/1597826719393931266
 2022-11-30 05:35:50,harugasumi,url,https://dxyhzyu.xyz/jp,#phishing,https://twitter.com/harugasumi/status/1597826719393931266
@@ -269,12 +269,12 @@
 2022-11-30 05:46:02,dubstard,url,https://trending-twitter.com,#scam,https://twitter.com/dubstard/status/1597829287172001792
 2022-11-30 05:53:08,ecarlesi,url,http://paymembership.online/wordpress-6.1.1.zip,#phishing,https://twitter.com/ecarlesi/status/1597831071839797248
 2022-11-30 05:53:14,ecarlesi,url,http://accountingm.xyz/asd.zip,#phishing,https://twitter.com/ecarlesi/status/1597831095420067842
-2022-11-30 05:58:46,dubstard,url,https://twitteraid.com,#phishing #scam,https://twitter.com/dubstard/status/1597832489153990656
-2022-11-30 05:58:46,dubstard,url,https://witter.social,#phishing #scam,https://twitter.com/dubstard/status/1597832489153990656
 2022-11-30 05:58:46,dubstard,url,https://twittersnark.com,#phishing #scam,https://twitter.com/dubstard/status/1597832489153990656
-2022-11-30 05:58:46,dubstard,url,https://twitterengineers.com,#phishing #scam,https://twitter.com/dubstard/status/1597832489153990656
-2022-11-30 05:58:46,dubstard,url,https://twitterengineer.com,#phishing #scam,https://twitter.com/dubstard/status/1597832489153990656
 2022-11-30 05:58:46,dubstard,url,https://witter.one,#phishing #scam,https://twitter.com/dubstard/status/1597832489153990656
+2022-11-30 05:58:46,dubstard,url,https://twitterengineer.com,#phishing #scam,https://twitter.com/dubstard/status/1597832489153990656
+2022-11-30 05:58:46,dubstard,url,https://witter.social,#phishing #scam,https://twitter.com/dubstard/status/1597832489153990656
+2022-11-30 05:58:46,dubstard,url,https://twitteraid.com,#phishing #scam,https://twitter.com/dubstard/status/1597832489153990656
+2022-11-30 05:58:46,dubstard,url,https://twitterengineers.com,#phishing #scam,https://twitter.com/dubstard/status/1597832489153990656
 2022-11-30 06:01:27,RedPacketSec,md5,8f1ffbd841ae305c5297476d38aeabf3,#malware,https://twitter.com/RedPacketSec/status/1597833164889677828
 2022-11-30 06:01:27,RedPacketSec,md5,ca94e554bf77b157d780d454e38afb80,#malware,https://twitter.com/RedPacketSec/status/1597833164055011329
 2022-11-30 06:01:27,RedPacketSec,md5,924cedaa60e2eba5624e7b2cb03f3ff2,#malware,https://twitter.com/RedPacketSec/status/1597833165762138114
@@ -286,8 +286,8 @@
 2022-11-30 06:18:38,harugasumi,url,http://amzaon.cardvipsu.net/,#phishing,https://twitter.com/harugasumi/status/1597837491176112128
 2022-11-30 06:21:01,ReBensk,url,http://digitalcardowner.in/hdfc-card-app.apk,#malware,https://twitter.com/ReBensk/status/1597838090235629568
 2022-11-30 06:27:48,DestroyPhish,url,https://fixedflaat.com/,#phishing #scam #malware,https://twitter.com/DestroyPhish/status/1597839794725216256
-2022-11-30 06:28:47,PhishStats,url,http://oiapzxswepos.co.vu/,#phishing,https://twitter.com/PhishStats/status/1597840043741151232
 2022-11-30 06:28:47,PhishStats,ip,103.189.234.57,#phishing,https://twitter.com/PhishStats/status/1597840043741151232
+2022-11-30 06:28:47,PhishStats,url,http://oiapzxswepos.co.vu/,#phishing,https://twitter.com/PhishStats/status/1597840043741151232
 2022-11-30 06:31:33,ecarlesi,url,https://3482.voto/,#malware,https://twitter.com/ecarlesi/status/1597840740683763713
 2022-11-30 06:39:03,AtomSpam,url,https://lmo.bluemountaininc.cfd/common/login,#phishing,https://twitter.com/AtomSpam/status/1597842625410830339
 2022-11-30 06:40:22,ecarlesi,url,http://wszd2.software/,#malware,https://twitter.com/ecarlesi/status/1597842958388236288
@@ -298,11 +298,11 @@
 2022-11-30 06:52:45,TodayCyberNews,url,http://lockbitfile2tcudkcqqt2ve6btssyvqwlizbpv5vz337lslmhff2uad.onion,#ransomware,https://twitter.com/TodayCyberNews/status/1597846075481935872
 2022-11-30 06:56:28,ecarlesi,url,https://herisakhimangal.online,#phishing,https://twitter.com/ecarlesi/status/1597847009955831808
 2022-11-30 06:59:02,AtomSpam,url,http://bversio-unic-verticular-iloco.000webhostapp.com/,#phishing,https://twitter.com/AtomSpam/status/1597847655899697152
-2022-11-30 07:02:39,dubstard,url,https://metamask.io.merge.cbrmovies.info,#scam,https://twitter.com/dubstard/status/1597848564931362816
-2022-11-30 07:02:39,dubstard,url,https://metamask.io.merge.cbrandheli.info,#scam,https://twitter.com/dubstard/status/1597848564931362816
+2022-11-30 07:02:39,dubstard,url,https://metamask.io.merge.foras-tech.com,#scam,https://twitter.com/dubstard/status/1597848564931362816
 2022-11-30 07:02:39,dubstard,url,https://metamask.io.merge.bluebrox.co.uk,#scam,https://twitter.com/dubstard/status/1597848564931362816
 2022-11-30 07:02:39,dubstard,url,https://metamask.io.merge.busela.or.tz,#scam,https://twitter.com/dubstard/status/1597848564931362816
-2022-11-30 07:02:39,dubstard,url,https://metamask.io.merge.foras-tech.com,#scam,https://twitter.com/dubstard/status/1597848564931362816
+2022-11-30 07:02:39,dubstard,url,https://metamask.io.merge.cbrmovies.info,#scam,https://twitter.com/dubstard/status/1597848564931362816
+2022-11-30 07:02:39,dubstard,url,https://metamask.io.merge.cbrandheli.info,#scam,https://twitter.com/dubstard/status/1597848564931362816
 2022-11-30 07:05:47,dubstard,url,https://metamask.io.merge.hpmsolutions.ca,#phishing #scam,https://twitter.com/dubstard/status/1597849355897409536
 2022-11-30 07:05:47,dubstard,url,https://metamask.io.merge.gamersranks.com,#phishing #scam,https://twitter.com/dubstard/status/1597849355897409536
 2022-11-30 07:05:47,dubstard,url,https://metamask.io.merge.instapple.us,#phishing #scam,https://twitter.com/dubstard/status/1597849355897409536
@@ -311,10 +311,10 @@
 2022-11-30 07:07:25,dubstard,url,https://metamask.io.merge.pivoine.com.qa,#scam,https://twitter.com/dubstard/status/1597849766368378881
 2022-11-30 07:07:25,dubstard,url,https://metamask.io.merge.problogcontentwriting.com,#scam,https://twitter.com/dubstard/status/1597849766368378881
 2022-11-30 07:07:25,dubstard,url,https://metamask.io.merge.muginiandsons.com,#scam,https://twitter.com/dubstard/status/1597849766368378881
+2022-11-30 07:10:31,dubstard,url,https://metamask.io.merge.theonionnewspapercom.com,#scam,https://twitter.com/dubstard/status/1597850548149321729
 2022-11-30 07:10:31,dubstard,url,https://metamask.io.merge.toosdei.space,#scam,https://twitter.com/dubstard/status/1597850548149321729
 2022-11-30 07:10:31,dubstard,url,https://metamask.io.merge.transportesglobaltur.com,#scam,https://twitter.com/dubstard/status/1597850548149321729
 2022-11-30 07:10:31,dubstard,url,https://metamask.io.merge.yiteism.org,#scam,https://twitter.com/dubstard/status/1597850548149321729
-2022-11-30 07:10:31,dubstard,url,https://metamask.io.merge.theonionnewspapercom.com,#scam,https://twitter.com/dubstard/status/1597850548149321729
 2022-11-30 07:24:18,ecarlesi,url,http://lplka.com/,#phishing,https://twitter.com/ecarlesi/status/1597854016251346944
 2022-11-30 07:25:55,ecarlesi,url,https://manage-orange.com,#phishing,https://twitter.com/ecarlesi/status/1597854421429403648
 2022-11-30 07:28:00,ecarlesi,url,http://mynabsecured.com/,#phishing,https://twitter.com/ecarlesi/status/1597854945549717505
@@ -345,8 +345,8 @@
 2022-11-30 08:34:04,ecarlesi,url,http://golrneiz.com/,#phishing,https://twitter.com/ecarlesi/status/1597871571829489665
 2022-11-30 08:37:09,phishunt_io,url,https://xn--othersie-rcb.xyz/mint,#scam,https://twitter.com/phishunt_io/status/1597872349705293824
 2022-11-30 08:39:05,AtomSpam,url,http://www.btfsz.hu/wp-content/uploads/2022/11/index.html,#phishing,https://twitter.com/AtomSpam/status/1597872836571537408
-2022-11-30 08:40:28,yvesago,url,https://britishpropolistv.com/wp-content/plugins/a/access.php,#phishing,https://twitter.com/yvesago/status/1597873184061403136
 2022-11-30 08:40:28,yvesago,url,https://s3.amazonaws.com/appforest_uf/f1669733958257x122560213801879760/indexnew,#phishing,https://twitter.com/yvesago/status/1597873184061403136
+2022-11-30 08:40:28,yvesago,url,https://britishpropolistv.com/wp-content/plugins/a/access.php,#phishing,https://twitter.com/yvesago/status/1597873184061403136
 2022-11-30 08:43:28,ecarlesi,url,https://qpaq9.software/,#malware,https://twitter.com/ecarlesi/status/1597873939904344064
 2022-11-30 08:43:35,ecarlesi,url,https://decathlonsouthafrica.com/do-1.zip,#phishing,https://twitter.com/ecarlesi/status/1597873965397168128
 2022-11-30 08:44:17,AtomSpam,url,https://me2.kr/aumgg,#phishing,https://twitter.com/AtomSpam/status/1597874142430257159
@@ -444,6 +444,20 @@
 2022-11-30 10:39:08,ecarlesi,url,http://2816873.com/,#malware,https://twitter.com/ecarlesi/status/1597903045492457474
 2022-11-30 10:40:44,ecarlesi,url,https://9212.football/,#malware,https://twitter.com/ecarlesi/status/1597903449240358912
 2022-11-30 10:42:02,ecarlesi,url,https://qtqa9.software/,#malware,https://twitter.com/ecarlesi/status/1597903776446177281
-2022-11-30 10:43:20,harugasumi,url,https://ccnici.cn/gyto8em,#phishing,https://twitter.com/harugasumi/status/1597904103245778945
 2022-11-30 10:43:20,harugasumi,url,https://zkyfywv.cn/,#phishing,https://twitter.com/harugasumi/status/1597904103245778945
 2022-11-30 10:43:20,harugasumi,ip,78.153.145.6,#phishing,https://twitter.com/harugasumi/status/1597904103245778945
+2022-11-30 10:43:20,harugasumi,url,https://ccnici.cn/gyto8em,#phishing,https://twitter.com/harugasumi/status/1597904103245778945
+2022-11-30 10:46:18,ecarlesi,url,https://furen6688.vip/,#malware,https://twitter.com/ecarlesi/status/1597904849605009408
+2022-11-30 10:48:22,VirITeXplorer,domain,optinetwork.top,#Ursnif,https://twitter.com/VirITeXplorer/status/1597905370013257729
+2022-11-30 10:48:22,VirITeXplorer,domain,onlynetwork.top,#Ursnif,https://twitter.com/VirITeXplorer/status/1597905370013257729
+2022-11-30 10:48:22,VirITeXplorer,domain,internetcoca.in,#Ursnif,https://twitter.com/VirITeXplorer/status/1597905370013257729
+2022-11-30 10:48:22,VirITeXplorer,domain,dendexmm.com,#Ursnif,https://twitter.com/VirITeXplorer/status/1597905370013257729
+2022-11-30 10:49:02,AtomSpam,url,https://86.104.194.63/de/in/,#phishing,https://twitter.com/AtomSpam/status/1597905538863464449
+2022-11-30 10:49:02,AtomSpam,ip,86.104.194.63,#phishing,https://twitter.com/AtomSpam/status/1597905538863464449
+2022-11-30 10:49:08,VirITeXplorer,md5,e0c21745090aee8f27f19c3805a50a30,,https://twitter.com/VirITeXplorer/status/1597905564432203776
+2022-11-30 10:49:08,VirITeXplorer,md5,472688a4c8612d87b98d74d02c9393e7,,https://twitter.com/VirITeXplorer/status/1597905564432203776
+2022-11-30 10:49:08,VirITeXplorer,md5,c673a9325c0ca54d36076f2514e02233,,https://twitter.com/VirITeXplorer/status/1597905564432203776
+2022-11-30 10:49:08,VirITeXplorer,md5,fc66380a39f620847d2aa1b091244cef,,https://twitter.com/VirITeXplorer/status/1597905564432203776
+2022-11-30 10:49:08,VirITeXplorer,md5,12ccb1efdf09f837de0a987d2bdeb53e,,https://twitter.com/VirITeXplorer/status/1597905564432203776
+2022-11-30 10:49:52,ecarlesi,url,http://subscribes-disneyplus.com,#phishing,https://twitter.com/ecarlesi/status/1597905749451186177
+2022-11-30 10:50:06,ecarlesi,url,https://wszd2.software/,#malware,https://twitter.com/ecarlesi/status/1597905805629657089

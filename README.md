@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-30 10:50:23 (UTC)</th>
+		<th colspan=4>2022-11-30 10:58:59 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,19 +89,19 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 374 | 5915 | 20861 | 160602 |
-| **:globe_with_meridians: Domains** | 8 | 699 | 2925 | 31060 |
-| **:triangular_flag_on_post: IPs** | 52 | 809 | 3420 | 54245 |
+| **:link: URLs** | 378 | 5919 | 20865 | 160606 |
+| **:globe_with_meridians: Domains** | 12 | 703 | 2929 | 31064 |
+| **:triangular_flag_on_post: IPs** | 53 | 810 | 3421 | 54246 |
 | **:1234: SHA256** | 2 | 58 | 462 | 16714 |
-| **:1234: MD5** | 13 | 649 | 1697 | 6379 |
+| **:1234: MD5** | 18 | 654 | 1702 | 6384 |
 
 #### Tags
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 271 | 3889 | 14424 | 184882 |
+| **#phishing** | 274 | 3892 | 14427 | 184885 |
 | **#scam** | 38 | 1107 | 4249 | 36879 |
-| **#malware** | 126 | 3499 | 11818 | 32971 |
+| **#malware** | 128 | 3501 | 11820 | 32973 |
 | **#maldoc** | 0 | 18 | 28 | 245 |
 | **#ransomware** | 4 | 261 | 428 | 1523 |
 | **#banker** | 0 | 24 | 29 | 51 |
@@ -130,22 +130,22 @@ If you like the project, please consider giving it a star!
 | **#Remcos** | 0 | 2 | 6 | 559 |
 | **#Spring4Shell** | 0 | 2 | 2 | 28 |
 | **#Trickbot** | 0 | 0 | 0 | 27 |
-| **#Ursnif** | 1 | 1 | 18 | 346 |
+| **#Ursnif** | 5 | 5 | 22 | 350 |
 
 #### Top reporters (today)
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 227 |
-| **#2** | [AtomSpam](https://twitter.com/AtomSpam) | 81 |
+| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 230 |
+| **#2** | [AtomSpam](https://twitter.com/AtomSpam) | 83 |
 | **#3** | [dubstard](https://twitter.com/dubstard) | 28 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 17 |
 | **#5** | [quicksandphish](https://twitter.com/quicksandphish) | 13 |
 | **#6** | [drb_ra](https://twitter.com/drb_ra) | 12 |
 | **#7** | [DGAFeedAlerts](https://twitter.com/DGAFeedAlerts) | 11 |
-| **#8** | [ViriBack](https://twitter.com/ViriBack) | 7 |
-| **#9** | [RedPacketSec](https://twitter.com/RedPacketSec) | 7 |
-| **#10** | [PhishStats](https://twitter.com/PhishStats) | 5 |
+| **#8** | [VirITeXplorer](https://twitter.com/VirITeXplorer) | 9 |
+| **#9** | [ViriBack](https://twitter.com/ViriBack) | 7 |
+| **#10** | [RedPacketSec](https://twitter.com/RedPacketSec) | 7 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
