@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-30 00:44:27 (UTC)</th>
+		<th colspan=4>2022-11-30 00:54:21 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,7 +89,7 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 13 | 5554 | 20500 | 160241 |
+| **:link: URLs** | 16 | 5557 | 20503 | 160244 |
 | **:globe_with_meridians: Domains** | 0 | 688 | 2914 | 31049 |
 | **:triangular_flag_on_post: IPs** | 12 | 769 | 3380 | 54205 |
 | **:1234: SHA256** | 0 | 56 | 460 | 16712 |
@@ -99,7 +99,7 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 13 | 3631 | 14166 | 184624 |
+| **#phishing** | 16 | 3634 | 14169 | 184627 |
 | **#scam** | 2 | 1071 | 4213 | 36843 |
 | **#malware** | 10 | 3383 | 11702 | 32855 |
 | **#maldoc** | 0 | 18 | 28 | 245 |
@@ -136,10 +136,10 @@ If you like the project, please consider giving it a star!
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [AtomSpam](https://twitter.com/AtomSpam) | 7 |
+| **#1** | [AtomSpam](https://twitter.com/AtomSpam) | 8 |
 | **#2** | [ViriBack](https://twitter.com/ViriBack) | 7 |
-| **#3** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
-| **#4** | [quicksandphish](https://twitter.com/quicksandphish) | 3 |
+| **#3** | [quicksandphish](https://twitter.com/quicksandphish) | 5 |
+| **#4** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
 | **#5** | [ecarlesi](https://twitter.com/ecarlesi) | 2 |
 | **#6** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 2 |
 | **#7** | [ASEC_Analysis](https://twitter.com/ASEC_Analysis) | 2 |
