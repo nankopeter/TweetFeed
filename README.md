@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-30 00:34:31 (UTC)</th>
+		<th colspan=4>2022-11-30 00:44:27 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,21 +89,21 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 8 | 5549 | 20495 | 160236 |
+| **:link: URLs** | 13 | 5554 | 20500 | 160241 |
 | **:globe_with_meridians: Domains** | 0 | 688 | 2914 | 31049 |
-| **:triangular_flag_on_post: IPs** | 11 | 768 | 3379 | 54204 |
+| **:triangular_flag_on_post: IPs** | 12 | 769 | 3380 | 54205 |
 | **:1234: SHA256** | 0 | 56 | 460 | 16712 |
-| **:1234: MD5** | 0 | 636 | 1684 | 6366 |
+| **:1234: MD5** | 2 | 638 | 1686 | 6368 |
 
 #### Tags
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 7 | 3625 | 14160 | 184618 |
-| **#scam** | 0 | 1069 | 4211 | 36841 |
-| **#malware** | 8 | 3381 | 11700 | 32853 |
+| **#phishing** | 13 | 3631 | 14166 | 184624 |
+| **#scam** | 2 | 1071 | 4213 | 36843 |
+| **#malware** | 10 | 3383 | 11702 | 32855 |
 | **#maldoc** | 0 | 18 | 28 | 245 |
-| **#ransomware** | 0 | 257 | 424 | 1519 |
+| **#ransomware** | 2 | 259 | 426 | 1521 |
 | **#banker** | 0 | 24 | 29 | 51 |
 | **#AgentTesla** | 0 | 1 | 26 | 2060 |
 | **#Alienbot** | 0 | 0 | 0 | 11 |
@@ -139,10 +139,10 @@ If you like the project, please consider giving it a star!
 | **#1** | [AtomSpam](https://twitter.com/AtomSpam) | 7 |
 | **#2** | [ViriBack](https://twitter.com/ViriBack) | 7 |
 | **#3** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
-| **#4** | [ecarlesi](https://twitter.com/ecarlesi) | 1 |
-| **#5** | [-](https://twitter.com/-) | 0 |
-| **#6** | [-](https://twitter.com/-) | 0 |
-| **#7** | [-](https://twitter.com/-) | 0 |
+| **#4** | [quicksandphish](https://twitter.com/quicksandphish) | 3 |
+| **#5** | [ecarlesi](https://twitter.com/ecarlesi) | 2 |
+| **#6** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 2 |
+| **#7** | [ASEC_Analysis](https://twitter.com/ASEC_Analysis) | 2 |
 | **#8** | [-](https://twitter.com/-) | 0 |
 | **#9** | [-](https://twitter.com/-) | 0 |
 | **#10** | [-](https://twitter.com/-) | 0 |
