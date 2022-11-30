@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-30 01:04:31 (UTC)</th>
+		<th colspan=4>2022-11-30 01:14:33 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,19 +89,19 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 17 | 5558 | 20504 | 160245 |
+| **:link: URLs** | 24 | 5565 | 20511 | 160252 |
 | **:globe_with_meridians: Domains** | 0 | 688 | 2914 | 31049 |
-| **:triangular_flag_on_post: IPs** | 12 | 769 | 3380 | 54205 |
-| **:1234: SHA256** | 0 | 56 | 460 | 16712 |
+| **:triangular_flag_on_post: IPs** | 13 | 770 | 3381 | 54206 |
+| **:1234: SHA256** | 1 | 57 | 461 | 16713 |
 | **:1234: MD5** | 2 | 638 | 1686 | 6368 |
 
 #### Tags
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 17 | 3635 | 14170 | 184628 |
+| **#phishing** | 23 | 3641 | 14176 | 184634 |
 | **#scam** | 2 | 1071 | 4213 | 36843 |
-| **#malware** | 10 | 3383 | 11702 | 32855 |
+| **#malware** | 11 | 3384 | 11703 | 32856 |
 | **#maldoc** | 0 | 18 | 28 | 245 |
 | **#ransomware** | 2 | 259 | 426 | 1521 |
 | **#banker** | 0 | 24 | 29 | 51 |
@@ -136,15 +136,15 @@ If you like the project, please consider giving it a star!
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [AtomSpam](https://twitter.com/AtomSpam) | 8 |
-| **#2** | [ViriBack](https://twitter.com/ViriBack) | 7 |
-| **#3** | [quicksandphish](https://twitter.com/quicksandphish) | 5 |
-| **#4** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
-| **#5** | [ecarlesi](https://twitter.com/ecarlesi) | 2 |
+| **#1** | [quicksandphish](https://twitter.com/quicksandphish) | 9 |
+| **#2** | [AtomSpam](https://twitter.com/AtomSpam) | 8 |
+| **#3** | [ViriBack](https://twitter.com/ViriBack) | 7 |
+| **#4** | [ecarlesi](https://twitter.com/ecarlesi) | 5 |
+| **#5** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
 | **#6** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 2 |
 | **#7** | [ASEC_Analysis](https://twitter.com/ASEC_Analysis) | 2 |
-| **#8** | [PhishStats](https://twitter.com/PhishStats) | 1 |
-| **#9** | [-](https://twitter.com/-) | 0 |
+| **#8** | [ScumBots](https://twitter.com/ScumBots) | 2 |
+| **#9** | [PhishStats](https://twitter.com/PhishStats) | 1 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
 ## How it works?

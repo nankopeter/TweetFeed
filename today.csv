@@ -6,19 +6,19 @@
 2022-11-30 00:15:14,RdpSnitch,ip,209.203.2.230,,https://twitter.com/RdpSnitch/status/1597746036436508680
 2022-11-30 00:15:14,RdpSnitch,ip,103.74.254.187,,https://twitter.com/RdpSnitch/status/1597746036436508680
 2022-11-30 00:15:14,RdpSnitch,ip,142.93.8.59,,https://twitter.com/RdpSnitch/status/1597746037694791680
-2022-11-30 00:16:24,ViriBack,ip,49.12.222.119,#malware,https://twitter.com/ViriBack/status/1597746330830794752
+2022-11-30 00:16:24,ViriBack,ip,82.115.223.218,#malware,https://twitter.com/ViriBack/status/1597746330830794752
+2022-11-30 00:16:24,ViriBack,ip,45.137.65.190,#malware,https://twitter.com/ViriBack/status/1597746330830794752
+2022-11-30 00:16:24,ViriBack,ip,45.15.157.137,#malware,https://twitter.com/ViriBack/status/1597746330830794752
 2022-11-30 00:16:24,ViriBack,ip,65.108.225.214,#malware,https://twitter.com/ViriBack/status/1597746330830794752
 2022-11-30 00:16:24,ViriBack,ip,45.15.156.33,#malware,https://twitter.com/ViriBack/status/1597746330830794752
+2022-11-30 00:16:24,ViriBack,ip,49.12.222.119,#malware,https://twitter.com/ViriBack/status/1597746330830794752
 2022-11-30 00:16:24,ViriBack,ip,45.15.156.24,#malware,https://twitter.com/ViriBack/status/1597746330830794752
-2022-11-30 00:16:24,ViriBack,ip,45.15.157.137,#malware,https://twitter.com/ViriBack/status/1597746330830794752
-2022-11-30 00:16:24,ViriBack,ip,45.137.65.190,#malware,https://twitter.com/ViriBack/status/1597746330830794752
-2022-11-30 00:16:24,ViriBack,ip,82.115.223.218,#malware,https://twitter.com/ViriBack/status/1597746330830794752
 2022-11-30 00:18:45,AtomSpam,url,http://cj68144.tw1.ru/,#phishing,https://twitter.com/AtomSpam/status/1597746922495811592
 2022-11-30 00:21:20,AtomSpam,url,https://11info.top/login/login,#phishing,https://twitter.com/AtomSpam/status/1597747572470431745
 2022-11-30 00:24:44,AtomSpam,url,http://afddbc.com/,#phishing,https://twitter.com/AtomSpam/status/1597748429173702665
 2022-11-30 00:28:23,AtomSpam,url,https://securityverfyonline.com/citizens/,#phishing,https://twitter.com/AtomSpam/status/1597749345998327813
-2022-11-30 00:30:48,AP_Zenmashi,url,https://rakuten-security-ja.abhrkw.top,#phishing #scam,https://twitter.com/AP_Zenmashi/status/1597749953279193088
 2022-11-30 00:30:48,AP_Zenmashi,ip,198.55.102.127,#phishing #scam,https://twitter.com/AP_Zenmashi/status/1597749953279193088
+2022-11-30 00:30:48,AP_Zenmashi,url,https://rakuten-security-ja.abhrkw.top,#phishing #scam,https://twitter.com/AP_Zenmashi/status/1597749953279193088
 2022-11-30 00:33:09,ecarlesi,url,http://bingstatscop.com/public_html%20%2812%29.zip,#phishing,https://twitter.com/ecarlesi/status/1597750544344485888
 2022-11-30 00:34:36,quicksandphish,url,https://loaf.jugetic.top,#phishing,https://twitter.com/quicksandphish/status/1597750909055819776
 2022-11-30 00:35:35,quicksandphish,url,https://nude.yardial.top,#phishing,https://twitter.com/quicksandphish/status/1597751158700789760
@@ -29,3 +29,12 @@
 2022-11-30 00:39:41,quicksandphish,url,https://axle.jugetic.top,#phishing,https://twitter.com/quicksandphish/status/1597752189723680768
 2022-11-30 00:40:37,quicksandphish,url,https://inves.aacross.top,#phishing,https://twitter.com/quicksandphish/status/1597752426404007937
 2022-11-30 00:49:51,PhishStats,url,http://briafinanceira.com/,#phishing,https://twitter.com/PhishStats/status/1597754747901050881
+2022-11-30 00:59:45,ecarlesi,url,http://cizstb.org/,#phishing,https://twitter.com/ecarlesi/status/1597757240617959425
+2022-11-30 01:03:41,ecarlesi,url,http://32588.biz/,#malware,https://twitter.com/ecarlesi/status/1597758228489797632
+2022-11-30 01:04:33,quicksandphish,url,https://scout.negmost.top,#phishing,https://twitter.com/quicksandphish/status/1597758445918117888
+2022-11-30 01:05:34,quicksandphish,url,https://www.arnazon-service-co-jp.com/signin,#phishing,https://twitter.com/quicksandphish/status/1597758703297449984
+2022-11-30 01:06:37,quicksandphish,url,https://buy.gasent.top,#phishing,https://twitter.com/quicksandphish/status/1597758968239050752
+2022-11-30 01:07:23,ScumBots,ip,146.190.69.247,,https://twitter.com/ScumBots/status/1597759159361064960
+2022-11-30 01:07:23,ScumBots,sha256,ab9a4d30723683772c778b0433641695624616d7c96e09948e8beb3d58f48818,,https://twitter.com/ScumBots/status/1597759159361064960
+2022-11-30 01:07:33,quicksandphish,url,https://reass.farally.top,#phishing,https://twitter.com/quicksandphish/status/1597759202365100033
+2022-11-30 01:07:43,ecarlesi,url,https://acessesuafaturadigital.xyz/,#phishing,https://twitter.com/ecarlesi/status/1597759245344186369
