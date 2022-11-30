@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-30 00:54:21 (UTC)</th>
+		<th colspan=4>2022-11-30 01:04:31 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,7 +89,7 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 16 | 5557 | 20503 | 160244 |
+| **:link: URLs** | 17 | 5558 | 20504 | 160245 |
 | **:globe_with_meridians: Domains** | 0 | 688 | 2914 | 31049 |
 | **:triangular_flag_on_post: IPs** | 12 | 769 | 3380 | 54205 |
 | **:1234: SHA256** | 0 | 56 | 460 | 16712 |
@@ -99,7 +99,7 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 16 | 3634 | 14169 | 184627 |
+| **#phishing** | 17 | 3635 | 14170 | 184628 |
 | **#scam** | 2 | 1071 | 4213 | 36843 |
 | **#malware** | 10 | 3383 | 11702 | 32855 |
 | **#maldoc** | 0 | 18 | 28 | 245 |
@@ -143,7 +143,7 @@ If you like the project, please consider giving it a star!
 | **#5** | [ecarlesi](https://twitter.com/ecarlesi) | 2 |
 | **#6** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 2 |
 | **#7** | [ASEC_Analysis](https://twitter.com/ASEC_Analysis) | 2 |
-| **#8** | [-](https://twitter.com/-) | 0 |
+| **#8** | [PhishStats](https://twitter.com/PhishStats) | 1 |
 | **#9** | [-](https://twitter.com/-) | 0 |
 | **#10** | [-](https://twitter.com/-) | 0 |
 
