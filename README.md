@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-30 05:10:11 (UTC)</th>
+		<th colspan=4>2022-11-30 05:16:04 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,9 +89,9 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 200 | 5741 | 20687 | 160428 |
+| **:link: URLs** | 205 | 5746 | 20692 | 160433 |
 | **:globe_with_meridians: Domains** | 6 | 697 | 2923 | 31058 |
-| **:triangular_flag_on_post: IPs** | 36 | 793 | 3404 | 54229 |
+| **:triangular_flag_on_post: IPs** | 38 | 795 | 3406 | 54231 |
 | **:1234: SHA256** | 2 | 58 | 462 | 16714 |
 | **:1234: MD5** | 4 | 640 | 1688 | 6370 |
 
@@ -99,9 +99,9 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 152 | 3770 | 14305 | 184763 |
-| **#scam** | 5 | 1074 | 4216 | 36846 |
-| **#malware** | 73 | 3446 | 11765 | 32918 |
+| **#phishing** | 156 | 3774 | 14309 | 184767 |
+| **#scam** | 7 | 1076 | 4218 | 36848 |
+| **#malware** | 76 | 3449 | 11768 | 32921 |
 | **#maldoc** | 0 | 18 | 28 | 245 |
 | **#ransomware** | 2 | 259 | 426 | 1521 |
 | **#banker** | 0 | 24 | 29 | 51 |
@@ -136,16 +136,16 @@ If you like the project, please consider giving it a star!
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 127 |
+| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 130 |
 | **#2** | [AtomSpam](https://twitter.com/AtomSpam) | 57 |
 | **#3** | [quicksandphish](https://twitter.com/quicksandphish) | 13 |
 | **#4** | [DGAFeedAlerts](https://twitter.com/DGAFeedAlerts) | 8 |
 | **#5** | [drb_ra](https://twitter.com/drb_ra) | 8 |
 | **#6** | [ViriBack](https://twitter.com/ViriBack) | 7 |
-| **#7** | [romonlyht](https://twitter.com/romonlyht) | 5 |
-| **#8** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
-| **#9** | [harugasumi](https://twitter.com/harugasumi) | 4 |
-| **#10** | [PhishStats](https://twitter.com/PhishStats) | 3 |
+| **#7** | [harugasumi](https://twitter.com/harugasumi) | 6 |
+| **#8** | [romonlyht](https://twitter.com/romonlyht) | 5 |
+| **#9** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
+| **#10** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 4 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
