@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-30 05:30:59 (UTC)</th>
+		<th colspan=4>2022-11-30 05:39:42 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,9 +89,9 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 207 | 5748 | 20694 | 160435 |
+| **:link: URLs** | 208 | 5749 | 20695 | 160436 |
 | **:globe_with_meridians: Domains** | 6 | 697 | 2923 | 31058 |
-| **:triangular_flag_on_post: IPs** | 38 | 795 | 3406 | 54231 |
+| **:triangular_flag_on_post: IPs** | 39 | 796 | 3407 | 54232 |
 | **:1234: SHA256** | 2 | 58 | 462 | 16714 |
 | **:1234: MD5** | 5 | 641 | 1689 | 6371 |
 
@@ -99,7 +99,7 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 157 | 3775 | 14310 | 184768 |
+| **#phishing** | 159 | 3777 | 14312 | 184770 |
 | **#scam** | 7 | 1076 | 4218 | 36848 |
 | **#malware** | 78 | 3451 | 11770 | 32923 |
 | **#maldoc** | 0 | 18 | 28 | 245 |
@@ -141,8 +141,8 @@ If you like the project, please consider giving it a star!
 | **#3** | [quicksandphish](https://twitter.com/quicksandphish) | 13 |
 | **#4** | [DGAFeedAlerts](https://twitter.com/DGAFeedAlerts) | 8 |
 | **#5** | [drb_ra](https://twitter.com/drb_ra) | 8 |
-| **#6** | [ViriBack](https://twitter.com/ViriBack) | 7 |
-| **#7** | [harugasumi](https://twitter.com/harugasumi) | 6 |
+| **#6** | [harugasumi](https://twitter.com/harugasumi) | 8 |
+| **#7** | [ViriBack](https://twitter.com/ViriBack) | 7 |
 | **#8** | [romonlyht](https://twitter.com/romonlyht) | 5 |
 | **#9** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
 | **#10** | [AP_Zenmashi](https://twitter.com/AP_Zenmashi) | 4 |
