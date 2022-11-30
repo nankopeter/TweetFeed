@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-30 05:00:50 (UTC)</th>
+		<th colspan=4>2022-11-30 05:10:11 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,9 +89,9 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 197 | 5738 | 20684 | 160425 |
+| **:link: URLs** | 200 | 5741 | 20687 | 160428 |
 | **:globe_with_meridians: Domains** | 6 | 697 | 2923 | 31058 |
-| **:triangular_flag_on_post: IPs** | 35 | 792 | 3403 | 54228 |
+| **:triangular_flag_on_post: IPs** | 36 | 793 | 3404 | 54229 |
 | **:1234: SHA256** | 2 | 58 | 462 | 16714 |
 | **:1234: MD5** | 4 | 640 | 1688 | 6370 |
 
@@ -99,7 +99,7 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 148 | 3766 | 14301 | 184759 |
+| **#phishing** | 152 | 3770 | 14305 | 184763 |
 | **#scam** | 5 | 1074 | 4216 | 36846 |
 | **#malware** | 73 | 3446 | 11765 | 32918 |
 | **#maldoc** | 0 | 18 | 28 | 245 |
@@ -137,15 +137,15 @@ If you like the project, please consider giving it a star!
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 127 |
-| **#2** | [AtomSpam](https://twitter.com/AtomSpam) | 55 |
+| **#2** | [AtomSpam](https://twitter.com/AtomSpam) | 57 |
 | **#3** | [quicksandphish](https://twitter.com/quicksandphish) | 13 |
 | **#4** | [DGAFeedAlerts](https://twitter.com/DGAFeedAlerts) | 8 |
 | **#5** | [drb_ra](https://twitter.com/drb_ra) | 8 |
 | **#6** | [ViriBack](https://twitter.com/ViriBack) | 7 |
 | **#7** | [romonlyht](https://twitter.com/romonlyht) | 5 |
 | **#8** | [RdpSnitch](https://twitter.com/RdpSnitch) | 4 |
-| **#9** | [PhishStats](https://twitter.com/PhishStats) | 3 |
-| **#10** | [ScumBots](https://twitter.com/ScumBots) | 3 |
+| **#9** | [harugasumi](https://twitter.com/harugasumi) | 4 |
+| **#10** | [PhishStats](https://twitter.com/PhishStats) | 3 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
