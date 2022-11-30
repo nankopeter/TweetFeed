@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-30 03:45:42 (UTC)</th>
+		<th colspan=4>2022-11-30 03:51:35 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,8 +89,8 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 168 | 5709 | 20655 | 160396 |
-| **:globe_with_meridians: Domains** | 6 | 694 | 2920 | 31055 |
+| **:link: URLs** | 171 | 5712 | 20658 | 160399 |
+| **:globe_with_meridians: Domains** | 6 | 697 | 2923 | 31058 |
 | **:triangular_flag_on_post: IPs** | 34 | 791 | 3402 | 54227 |
 | **:1234: SHA256** | 2 | 58 | 462 | 16714 |
 | **:1234: MD5** | 4 | 640 | 1688 | 6370 |
@@ -99,9 +99,9 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 126 | 3744 | 14279 | 184737 |
+| **#phishing** | 127 | 3745 | 14280 | 184738 |
 | **#scam** | 5 | 1074 | 4216 | 36846 |
-| **#malware** | 65 | 3438 | 11757 | 32910 |
+| **#malware** | 67 | 3440 | 11759 | 32912 |
 | **#maldoc** | 0 | 18 | 28 | 245 |
 | **#ransomware** | 2 | 259 | 426 | 1521 |
 | **#banker** | 0 | 24 | 29 | 51 |
@@ -136,7 +136,7 @@ If you like the project, please consider giving it a star!
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 109 |
+| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 112 |
 | **#2** | [AtomSpam](https://twitter.com/AtomSpam) | 44 |
 | **#3** | [quicksandphish](https://twitter.com/quicksandphish) | 13 |
 | **#4** | [DGAFeedAlerts](https://twitter.com/DGAFeedAlerts) | 8 |
