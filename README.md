@@ -33,7 +33,7 @@ If you like the project, please consider giving it a star!
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2022-11-30 10:05:51 (UTC)</th>
+		<th colspan=4>2022-11-30 10:15:28 (UTC)</th>
 	</tr>
     <tr>
             <th>Today</th>
@@ -89,9 +89,9 @@ If you like the project, please consider giving it a star!
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 357 | 5898 | 20844 | 160585 |
-| **:globe_with_meridians: Domains** | 6 | 697 | 2923 | 31058 |
-| **:triangular_flag_on_post: IPs** | 49 | 806 | 3417 | 54242 |
+| **:link: URLs** | 361 | 5902 | 20848 | 160589 |
+| **:globe_with_meridians: Domains** | 7 | 698 | 2924 | 31059 |
+| **:triangular_flag_on_post: IPs** | 51 | 808 | 3419 | 54244 |
 | **:1234: SHA256** | 2 | 58 | 462 | 16714 |
 | **:1234: MD5** | 13 | 649 | 1697 | 6379 |
 
@@ -99,9 +99,9 @@ If you like the project, please consider giving it a star!
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 262 | 3880 | 14415 | 184873 |
+| **#phishing** | 264 | 3882 | 14417 | 184875 |
 | **#scam** | 38 | 1107 | 4249 | 36879 |
-| **#malware** | 116 | 3489 | 11808 | 32961 |
+| **#malware** | 118 | 3491 | 11810 | 32963 |
 | **#maldoc** | 0 | 18 | 28 | 245 |
 | **#ransomware** | 4 | 261 | 428 | 1523 |
 | **#banker** | 0 | 24 | 29 | 51 |
@@ -136,13 +136,13 @@ If you like the project, please consider giving it a star!
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 214 |
-| **#2** | [AtomSpam](https://twitter.com/AtomSpam) | 79 |
+| **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 217 |
+| **#2** | [AtomSpam](https://twitter.com/AtomSpam) | 80 |
 | **#3** | [dubstard](https://twitter.com/dubstard) | 28 |
 | **#4** | [harugasumi](https://twitter.com/harugasumi) | 14 |
 | **#5** | [quicksandphish](https://twitter.com/quicksandphish) | 13 |
 | **#6** | [drb_ra](https://twitter.com/drb_ra) | 12 |
-| **#7** | [DGAFeedAlerts](https://twitter.com/DGAFeedAlerts) | 8 |
+| **#7** | [DGAFeedAlerts](https://twitter.com/DGAFeedAlerts) | 11 |
 | **#8** | [ViriBack](https://twitter.com/ViriBack) | 7 |
 | **#9** | [RedPacketSec](https://twitter.com/RedPacketSec) | 7 |
 | **#10** | [PhishStats](https://twitter.com/PhishStats) | 5 |
